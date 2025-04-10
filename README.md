@@ -31,10 +31,10 @@ Durante o curso, aprofundei meus conhecimentos sobre:
 
 | Nome do Projeto | Descrição |
 |-----------------|-----------|
-| [AI-podcast](https://github.com/Mirellawanessa/AI-podcast) | Geração de roteiro e áudio de um podcast com uso de IA generativa (texto + voz). |
-| [AI-generated-e-book](https://github.com/Mirellawanessa/AI-generated-e-book-) | Geração automática de e-books com IA, estruturando capítulos, sumário e conteúdo com base em prompts. |
-| [ChatGPT-Clone](https://github.com/Mirellawanessa/ChatGPT-Clone) | Criação de um clone funcional do ChatGPT usando a API da OpenAI, com interface interativa. |
-| [Article-generate-by-ia](https://github.com/Mirellawanessa/Article-generate-by-ia) | Geração de artigos completos via prompts otimizados com a API da OpenAI. |
+| [AI-podcast](https://github.com/Mirellawanessa/ChatGPT-for-Devs/tree/main/AI%20podcast) | Geração de roteiro e áudio de um podcast com uso de IA generativa (texto + voz). |
+| [AI-generated-e-book](https://github.com/Mirellawanessa/ChatGPT-for-Devs/tree/main/E-book) | Geração automática de e-books com IA, estruturando capítulos, sumário e conteúdo com base em prompts. |
+| [ChatGPT-Clone](https://github.com/Mirellawanessa/ChatGPT-for-Devs/tree/main/Chatgpt-Clone) | Criação de um clone funcional do ChatGPT usando a API da OpenAI, com interface interativa. |
+| [Article-generate-by-ia](https://github.com/Mirellawanessa/ChatGPT-for-Devs/tree/main/Article-generate-by-ia) | Geração de artigos completos via prompts otimizados com a API da OpenAI. |
 
 > 🔗 *Você pode acessar cada projeto clicando no nome acima.*
 
