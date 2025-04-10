@@ -43,7 +43,7 @@ A **ChatGPT-clone** built with modern technologies to interact with OpenAI's API
     npm start
     ```
     
-## 👩‍💻 Desenvolvedora
+## 👩‍💻 Developer
 
 <p>
   <img 
