@@ -1,58 +1,70 @@
-# ChatGPT Clone
+<p align="center">
+    <img width="100" src="https://github.com/Mirellawanessa/ChatGPT-for-Devs/blob/main/E-book/assets/img/banner.png?raw=true">
+</p>
 
-A **ChatGPT-clone** built with modern technologies to interact with OpenAI's API and mimic ChatGPT functionalities. This project includes both frontend and backend implementations with seamless API integration.
 
-## 🚀 Features
+<p align="center">
+<img 
+    src="https://github.com/Mirellawanessa/ChatGPT-for-Devs/blob/main/E-book/assets/img/capa.png?raw=true"
+    width="300"  
+/>
+</p>
 
-- 🗨️ **Chat Interface:** Real-time messaging with GPT-4 models
-- 🔑 **API Integration:** Uses OpenAI API for chatbot responses
-- 🛠 **Technologies Used:**
-  - Frontend: React.js
-  - Backend: Node.js / Express
-  - API: OpenAI GPT-4 API
+# AI-Generated EBOOK Project
 
-## 📦 Installation
+ > ℹ️ **NOTE:** This is the repository developed during the course on the [DIO](https://dio.me) platform.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Mirellawanessa/ChatGPT-Clone.git
-   cd ChatGPT-Clone
+This project aims to generate a digital e-book using AI tools. All the prompts are listed below.
 
-2. **Install dependencies:**
-    ```bash
-    npm install
+<a href="https://github.com/Mirellawanessa/AI-generated-e-book-/blob/main/PDF/E-book.pdf"> 📕Click here to read</a>
 
-3. **Set up environment variables:**
-    Create a .env file in the backend directory and add your OPENAI API Key
-    `OPENAI_API_KEY=<your-secret-key>`
+## 💻 Technologies used in the project
 
-4. **Run the application:**
-    - Backend
-    ```bash
-    cd backend
-    npm run start
-    
-    ```
-    - Frontend
-    ```bash
-    cd clone
-    npm start
-    ```
+- [ChatGPT](https://chat.openai.com/) 
+- [Canva](https://www.canva.com/?msockid=09369807d08b6a0a04f28d16d18b6bac)
+
+## 🧠 Prompts
+
+ChatGPT：
+
+|   Action   | Prompt                                                                                                                                                                                                                                                                    |
+| :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   Title    | Create a title for an e-book about Java. The e-book is in the programming niche, and the sub-niche is Java. The title should be epic, short, and have a "popular girl" theme. List 5 variations of possible titles.                 |
+|  Content   | Write an e-book text focused on Java, listing ways to master the language with code examples. {RULES} Always explain simply. Keep the text concise. Always provide real-world code examples. Each topic should have a catchy title. |
+
+## ✨ Features
+
+- Content generated via ChatGPT
+
+## 📚 Materials
+
+- E-book generated during the lessons in `PDF` format.
+
+## 🛠️ Execution Instructions
+
+Use the prompts above in the suggested tools to generate the base material. Then, use a document editing tool such as Canva, PowerPoint, LibreOffice, or InDesign for formatting.
+
 ## 👩‍💻 Developer
 
 <p>
-  <img 
-    align="left" 
-    width="80" 
-    src="https://github.com/Mirellawanessa/DIO-Trilha-Java-Basico/blob/main/GitHub/imagens/User.jpeg?raw=true"
-  />
-  <p>&nbsp;&nbsp;&nbsp;Mirella Wanessa<br>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mirellawanessa">GitHub</a>&nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>&nbsp;|&nbsp;
-  <a href="https://www.instagram.com/_mirella.page/?next=%2F">Instagram</a>
-  &nbsp;|&nbsp;</p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://github.com/Mirellawanessa/AI-generated-e-book-/blob/main/assets/img/162898256.jpeg?raw=true"
+    />
+    <p>&nbsp&nbsp&nbspMirella Wanessa<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/Mirellawanessa">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/_mirella.page/?next=%2F">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
 </p>
+<br/><br/>
+<p>
 
 ---
 
