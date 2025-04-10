@@ -1,12 +1,12 @@
 <p align="center">
-    <img width="100" src="tech/assets/banner.png">
+    <img width="100" src="https://github.com/Mirellawanessa/ChatGPT-for-Devs/blob/main/Article-generate-by-ia/assets/banner.png?raw=true">
 </p>
 
 -------
 
 <p align="center">
   <img 
-    src="tech/assets/Preview.png"
+    src="https://github.com/Mirellawanessa/ChatGPT-for-Devs/blob/main/Article-generate-by-ia/assets/Preview.png?raw=true"
     width="400"  
   />
 </p>
@@ -52,7 +52,7 @@ Lexica.art:
 
 Use the above prompts in the suggested tools to generate the base material and use a document editing tool like PowerPoint, LibreOffice, or InDesign for layout. The step-by-step video can be viewed on the [DIO](https://dio.me) platform.
 
-## 👩‍💻 Desenvolvedora
+## 👩‍💻 Developer
 
 <p>
   <img 
