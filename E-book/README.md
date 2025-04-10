@@ -51,7 +51,7 @@ Use the prompts above in the suggested tools to generate the base material. Then
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/Mirellawanessa/AI-generated-e-book-/blob/main/assets/img/162898256.jpeg?raw=true"
+      src="https://github.com/Mirellawanessa/DIO-Trilha-Java-Basico/blob/main/GitHub/imagens/User.jpeg?raw=true"
     />
     <p>&nbsp&nbsp&nbspMirella Wanessa<br>
     &nbsp&nbsp&nbsp
